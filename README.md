@@ -38,7 +38,7 @@ Os seguintes pontos foram abordados nos testes automatizados:
 - Recuperação de senha
 
 ## Registro de Teste
-O vídeo demonstrando a execução dos testes pode ser encontrado no seguinte link do YouTube: [Link do vídeo](https://youtu.be/O5EjfdCmUz4)
+[Link do vídeo](https://youtu.be/O5EjfdCmUz4)
 
 ## Autores
 - **Nome:** Henrique Ribeiro Borges
